@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="#">
-    <img src="https://user-images.githubusercontent.com/84509949/204538783-fd73c77a-8f53-4ccc-8559-64dc9b4b297c.jpg" width="450" height="400" />
+    <img src="https://user-images.githubusercontent.com/84509949/204538783-fd73c77a-8f53-4ccc-8559-64dc9b4b297c.jpg" width="600" height="350" />
   </a>
 </p>
 
