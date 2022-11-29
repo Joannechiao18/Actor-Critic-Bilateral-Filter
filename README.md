@@ -15,7 +15,7 @@ that involves adjusting the width setting for the range kernel of a bilateral fi
 
 **Authors**: Yi-Jie Chen, Yen-Chiao Wang, Bo-Hao Chen, Hsiang-Yin Cheng, and Jia-Li Yin
 
-**Paper**: [PDF](https://ieeexplore.ieee.org/document/9746631)
+<!--**Paper**: [PDF](https://ieeexplore.ieee.org/document/9746631)-->
 
 ## Requirements
 ### Dependencies
@@ -124,8 +124,8 @@ The results will be saved in: `./result/`
 
 <!-- <img src="figures/gcce.jpg" alt="Cover" width="40%"/> -->
 
-## License + Attribution
-<!--The A2CBF code is licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Commercial usage is not permitted. If you use this code in a scientific publication, please cite the following [paper](https://ieeexplore.ieee.org/document/9746631) :
+<!--## License + Attribution
+The A2CBF code is licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Commercial usage is not permitted. If you use this code in a scientific publication, please cite the following [paper](https://ieeexplore.ieee.org/document/9746631) :
 ```
 @INPROCEEDINGS{ChenICASSP22,
   author={Chen, Bo-Hao and Cheng, Hsiang-Yin and Yin, Jia-Li},
