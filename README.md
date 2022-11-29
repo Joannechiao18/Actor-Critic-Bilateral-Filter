@@ -9,10 +9,11 @@
   </a>
 </p>
 
-## Introduction
-Recent research on edge-preserving image smoothing has suggested that bilateral filtering is vulnerable to maliciously perturbed filtering input. However, while most prior works analyze the adaptation of the range kernel in one-step manner, in this paper we take a more constructive view towards multi-step framework with the goal of unveiling the vulnerability of bilateral filtering. To this end, we adaptively model the width setting of range kernel as a multi-agent reinforcement learning problem and learn an adaptive actor-critic bilateral filter from local image context during successive bilateral filtering operations. By evaluating on eight benchmark datasets, we show that the performance of our filter outperforms that of state-of-the-art bilateral-filtering methods in terms of both salient structures preservation and insignificant textures and perturbation elimination.
+## Abstract
+Bilateral filters have been used for achieving excellent edge-preserving image smoothing. However, most studies have focused on the acceleration of bilateral filtering but not on the stability of filtering process in regard to small perturbations to its inputs. In this paper, we propose a novel actor–critic bilateral filter trained with a multistep learning scheme for highstability edge-preserving image smoothing. We first designed an edge-preserving smoothing process as a Markov decision process
+that involves adjusting the width setting for the range kernel of a bilateral filter. Next, we trained our actor–critic bilateral filter in a multistep manner to learn the optimal sequence of width settings. Through extensive experiments on five benchmark datasets, we determined that the proposed actor–critic bilateral filter produced satisfactory edge-preserving smoothing results. 
 
-**Authors**: Bo-Hao Chen, Hsiang-Yin Cheng, and Jia-Li Yin
+**Authors**: Yi-Jie Chen, Yen-Chiao Wang, Bo-Hao Chen, Hsiang-Yin Cheng, and Jia-Li Yin
 
 **Paper**: [PDF](https://ieeexplore.ieee.org/document/9746631)
 
