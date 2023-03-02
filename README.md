@@ -15,7 +15,7 @@ that involves adjusting the width setting for the range kernel of a bilateral fi
 
 **Authors**: Yi-Jie Chen, Yen-Chiao Wang, Bo-Hao Chen, Hsiang-Yin Cheng, and Jia-Li Yin
 
-<!--**Paper**: [PDF](https://ieeexplore.ieee.org/document/9746631)-->
+**Paper**: [PDF](https://ieeexplore.ieee.org/document/10019656)
 
 ## Requirements
 ### Dependencies
